@@ -6,3 +6,5 @@ Interested in DevOps, AI, and cloud computing.
 * 💼 Software engineer, program manager, and project manager.
 * 🌱 Learning about K8s and AWS.
 * ⚡ Regularly working in: `.py`,`.java`, `.go`, and `.rs` 
+
+[![andrewleenyk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewleenyk)](https://github.com/andrewleenyk/github-readme-stats)
